@@ -11,7 +11,8 @@ _Programmer, Software Enthusiast, Educator and sometimes a photographer based in
 
     A personalized to watch/read app that makes you a little bit less absentminded 😉
 
-    **Technology Used: React.js, Node.js, MongoDB, Tailwind** 
+    **Technology Used: React.js, Node.js, MongoDB, Tailwind**
+    ![remindme live gif](remindme.gif)
     
 - **Personal Blog**
 **[Github](https://github.com/Hasib-cirkut/personal-blog)** **[Live](https://hasib-personal-blog.netlify.app/)**
