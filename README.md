@@ -13,6 +13,8 @@ based in Dhaka, Bangladesh_ <br>
     A personalized to watch/read app that makes you a little bit less absentminded 😉
 
     **Technology Used: React.js, Node.js, MongoDB, Tailwind** <br>
+    <br>
+    
     ![remindme live gif](remindme.gif)
     
 - **Personal Blog**
