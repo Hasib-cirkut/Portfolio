@@ -1,6 +1,7 @@
 # Hasibul Huda
 
-_Programmer, Software Enthusiast, Educator and sometimes a photographer based in Dhaka, Bangladesh_ <br>
+_Programmer, Software Enthusiast, Educator and sometimes a photographer <br>
+based in Dhaka, Bangladesh_ <br>
 
 [Email](mailto:hasibulhuda1@gmail.com) / [Website](https://hasib-personal-blog.netlify.app/) / [LinkedIn](https://www.linkedin.com/in/hasibul-huda-2042ba159/) / [GitHub](https://github.com/Hasib-cirkut)
 
@@ -11,7 +12,7 @@ _Programmer, Software Enthusiast, Educator and sometimes a photographer based in
 
     A personalized to watch/read app that makes you a little bit less absentminded 😉
 
-    **Technology Used: React.js, Node.js, MongoDB, Tailwind**
+    **Technology Used: React.js, Node.js, MongoDB, Tailwind** <br>
     ![remindme live gif](remindme.gif)
     
 - **Personal Blog**
@@ -48,6 +49,6 @@ Programming and Introduction to Computer course.
 
 ## 🏫 Education
 **Bachelor of Sciences** in Computer Science and Engineering<br>
-[East West University](https://www.ewubd.edu/) - Dhaka, Bangladesh _(2017-2021)_
-**Major in Software Engineeing**
+[East West University](https://www.ewubd.edu/) - Dhaka, Bangladesh _(2017-2021)_ <br>
+**Major in Software Engineeing** <br>
 **CGPA: 3.84/4.00**
