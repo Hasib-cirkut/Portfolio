@@ -29,7 +29,6 @@ _Programmer, Software Enthusiast, Educator and sometimes a photographer based in
 
 ## 👨🏽‍🏫 Educator
 **Undergraduate Teaching Assistant** @ [EWU](https://www.ewubd.edu/) _(April 2019 - June 2021)_ <br>
-No-code platform that enables professionals to build interactive applications.
   - Helped students in Artificial Intelligence, Data Structure, Structural
 Programming and Introduction to Computer course.
   - Assisted course instructor with lab materials, class preparation.
