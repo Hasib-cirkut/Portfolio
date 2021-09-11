@@ -23,6 +23,8 @@ based in Dhaka, Bangladesh_ <br>
     A CMS powered blog that I built to use for my teaching purpose.
 
     **Technology Used: React.js, Contentful CMS**
+    <br><br>
+    ![blog live gif](blog.gif)
     
 - **Disease Control Forum**
 **[Github](https://github.com/Hasib-cirkut/personal-blog)**
