@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Hasibul Huda
 
-You can use the [editor on GitHub](https://github.com/Hasib-cirkut/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Programmer, Software Enthusiast, Educator and sometimes a photographer based in Dhaka, Bangladesh_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:hasibulhuda1@gmail.com) / [Website](https://hasib-personal-blog.netlify.app/) / [LinkedIn](https://www.linkedin.com/in/hasibul-huda-2042ba159/) / [GitHub](https://github.com/Hasib-cirkut)
 
-### Markdown
+## 👨‍💻 Software Engineering
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **RemindMe**
+**[Github](https://github.com/Hasib-cirkut/remindme)** **[Live](https://remindme.vercel.app/main)**
 
-```markdown
-Syntax highlighted code block
+    A personalized to watch/read app that makes you a little bit less absentminded 😉
 
-# Header 1
-## Header 2
-### Header 3
+    **Technology Used: React.js, Node.js, MongoDB, Tailwind** 
+    
+- **Personal Blog**
+**[Github](https://github.com/Hasib-cirkut/personal-blog)** **[Live](https://hasib-personal-blog.netlify.app/)**
 
-- Bulleted
-- List
+    A CMS powered blog that I built to use for my teaching purpose.
 
-1. Numbered
-2. List
+    **Technology Used: React.js, Contentful CMS**
+    
+- **Disease Control Forum**
+**[Github](https://github.com/Hasib-cirkut/personal-blog)**
 
-**Bold** and _Italic_ and `Code` text
+    An online forum targeting public health with CRUD facilities.
 
-[Link](url) and ![Image](src)
-```
+    **Technology Used: Svelte.js, Node.js, MongoDB, Tailwind**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 👨🏽‍🏫 Educator
+**Undergraduate Teaching Assistant** @ [EWU](https://www.ewubd.edu/) _(April 2019 - June 2021)_ <br>
+No-code platform that enables professionals to build interactive applications.
+  - Helped students in Artificial Intelligence, Data Structure, Structural
+Programming and Introduction to Computer course.
+  - Assisted course instructor with lab materials, class preparation.
+  - **_Technologies used:_** C, C++, Python, Prolog
+<br><br>
 
-### Jekyll Themes
+## 🏆 Accomplishments
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hasib-cirkut/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Deans List Award For Excellent Result** @ [East West University](https://www.ewubd.edu/)
 
-### Support or Contact
+**Merit List Award For Excellent Result** @ [East West University](https://www.ewubd.edu/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 🛰️ Medium of Communication
+
+**Native Bengali Speaker. Fluent in English.**
+
+## 🏫 Education
+**Bachelor of Sciences** in Computer Science and Engineering<br>
+[East West University](https://www.ewubd.edu/) - Dhaka, Bangladesh _(2017-2021)_
+**Major in Software Engineeing**
+**CGPA: 3.84/4.00**
